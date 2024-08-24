@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> [Conduct a security audit](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
 
 <h2>Certifications</h2>
 
