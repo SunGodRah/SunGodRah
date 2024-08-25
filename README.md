@@ -9,8 +9,7 @@
 
 <h2>🖥️Networking Projects🌐</h2>
 
-- <b> [Cable A Simple Network]()</b>
-- <b> [Cable A Simple Network]()</b>
+- <b> [Cable A Simple Network](https://github.com/SunGodRah/CableASimpleNetwork/blob/main/README.md)</b>
 
 <h2>🎓Certifications🌐</h2>
 
