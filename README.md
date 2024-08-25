@@ -4,6 +4,7 @@
 
 - <b> [Conduct a security audit (Controls & Compliance) Lab](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
 - <b> [Document an incident with an incident handler's journal (Incident Response & Management) Lab](https://github.com/SunGodRah/DocumentAnIncidentWithAnIncidentHandlersJournalLab/blob/main/README.md) </b>
+- <b> [File Permissions in Linux Lab](https://github.com/SunGodRah/FilePermissionsInLinux/blob/main/README.md) </b>
 
 <h2>🖥️Networking Projects🌐</h2>
 
