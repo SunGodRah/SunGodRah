@@ -5,6 +5,7 @@
 - <b> [Conduct A Security Audit (Controls & Compliance) Lab](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
 - <b> [Document An Incident With An Incident Handler's Journal (Incident Response & Management) Lab](https://github.com/SunGodRah/DocumentAnIncidentWithAnIncidentHandlersJournalLab/blob/main/README.md) </b>
 - <b> [File Permissions In Linux Lab](https://github.com/SunGodRah/FilePermissionsInLinux/blob/main/README.md) </b>
+- <b> [Use the NIST Cybersecurity Framework to respond to a security incident]() </b>
 
 <h2>🖥️Networking Projects🌐</h2>
 
