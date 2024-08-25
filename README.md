@@ -2,7 +2,7 @@
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
-- <b> [Conduct a security audit](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
+- <b> [Conduct a security audit (Controls & Compliance) Lab](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
 
 <h2>Certifications</h2>
 
