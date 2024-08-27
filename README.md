@@ -28,6 +28,9 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
 - **[🔧 BIOS/UEFI Exploration](https://github.com/SunGodRah/BIOSUEFIExploration)**  
   *Delve into BIOS/UEFI settings and understand system-level configurations.*
 
+
+- **[Create A Basic Lan Lab](https://github.com/SunGodRah/CreateABasicLanLab)**                                                                                      
+   *Creating a LAN from scratch using networking and end user devices.*
 ---
 
 ## 🎓 Certifications 🌐
