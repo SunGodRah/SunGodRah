@@ -29,7 +29,7 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
   *Delve into BIOS/UEFI settings and understand system-level configurations.*
 
 
-- **[Create A Basic Lan Lab](https://github.com/SunGodRah/CreateABasicLanLab)**                                                                                      
+- **[🌐 Create A Basic Lan Lab](https://github.com/SunGodRah/CreateABasicLanLab)**                                                                                      
    *Creating a LAN from scratch using networking and end user devices.*
 ---
 
