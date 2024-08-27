@@ -1,4 +1,4 @@
-# Greetings, Traveler. I am 👑 Kwe 👑 , Guardian of the Digital Realm. 🌙🔮
+# Greetings, I am Kwe👑🌙🔮
 
 Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and networking intertwine. Here, within these repositories, lies the culmination of my knowledge and craft. Delve deep, explore, and may the wisdom you seek be revealed.
 
