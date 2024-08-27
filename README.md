@@ -1,33 +1,40 @@
-<h1>Hi, I'm Kwe!
+# Hi, I'm Kwe! 👋
 
-<h2>👨‍💻Cybersecurity Projects🌐</h2>
+Welcome to my GitHub portfolio. Here, you’ll find a collection of my hands-on projects in cybersecurity and networking, along with my certifications. Feel free to explore!
 
-- <b> [Conduct A Security Audit (Controls & Compliance) Lab](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)</b>
-- <b> [Document An Incident With An Incident Handler's Journal (Incident Response & Management) Lab](https://github.com/SunGodRah/DocumentAnIncidentWithAnIncidentHandlersJournalLab/blob/main/README.md) </b>
-- <b> [File Permissions In Linux Lab](https://github.com/SunGodRah/FilePermissionsInLinux/blob/main/README.md) </b>
-- <b> [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/SunGodRah/UseTheNISTCybersecurityFrameworkToRespondToASecurityIncident) </b>
+---
 
-<h2>🖥️Networking Projects🌐</h2>
+## 👨‍💻 Cybersecurity Projects 🌐
 
-- <b> [Cable A Simple Network](https://github.com/SunGodRah/CableASimpleNetwork/blob/main/README.md)</b>
-- <b> [BIOS/UEFI Exploration](https://github.com/SunGodRah/BIOSUEFIExploration)</b>
+- **[🔍 Conduct A Security Audit (Controls & Compliance) Lab](https://github.com/SunGodRah/ConductASecurityAuditLab/blob/main/README.md)**  
+  *Explore how to assess security controls and ensure compliance.*
 
-<h2>🎓Certifications🌐</h2>
+- **[🛡️ Document An Incident With An Incident Handler's Journal (Incident Response & Management) Lab](https://github.com/SunGodRah/DocumentAnIncidentWithAnIncidentHandlersJournalLab/blob/main/README.md)**  
+  *Track and document security incidents from detection to resolution.*
 
-- CompTia Security +
+- **[📁 File Permissions In Linux Lab](https://github.com/SunGodRah/FilePermissionsInLinux/blob/main/README.md)**  
+  *Master the fundamentals of file permissions in a Linux environment.*
 
+- **[🔐 Use the NIST Cybersecurity Framework to Respond to a Security Incident](https://github.com/SunGodRah/UseTheNISTCybersecurityFrameworkToRespondToASecurityIncident)**  
+  *Leverage NIST guidelines to navigate and resolve a security breach.*
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🖥️ Networking Projects 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[🔗 Cable A Simple Network](https://github.com/SunGodRah/CableASimpleNetwork/blob/main/README.md)**  
+  *Set up and configure a basic network from scratch.*
+
+- **[🔧 BIOS/UEFI Exploration](https://github.com/SunGodRah/BIOSUEFIExploration)**  
+  *Delve into BIOS/UEFI settings and understand system-level configurations.*
+
+---
+
+## 🎓 Certifications 🌐
+
+- **📜 CompTIA Security+**  
+  *A solid foundation in cybersecurity principles and practices.*
+
+---
+
+Feel free to explore each project, and don’t hesitate to reach out if you have any questions or feedback. Let’s connect and grow together!
