@@ -32,7 +32,7 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
    *Creating a LAN from scratch using networking and end user devices.*
 
 - **[📡 Investigate Unicast, Broadcast, and Multicast Traffic](https://github.com/SunGodRah/InvestigateUnicastBroadcastAndMulticastTraffic)**  
-   *Creating a LAN from scratch using networking and end user devices.*  
+   *Analyze different types of network traffic to understand how data is transmitted across a network.*  
 ---
 
 ## 🎓 Certifications 🌐
