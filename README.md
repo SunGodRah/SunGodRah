@@ -19,7 +19,6 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
   *Leverage NIST guidelines to navigate and resolve a security breach.*
 
 ---
-
 ## 🖥️ Networking Projects 🌐
 
 - **[🔗 Cable A Simple Network](https://github.com/SunGodRah/CableASimpleNetwork/blob/main/README.md)**  
@@ -29,8 +28,11 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
   *Delve into BIOS/UEFI settings and understand system-level configurations.*
 
 
-- **[🌐 Create A Basic Lan Lab](https://github.com/SunGodRah/CreateABasicLanLab)**                                                                                      
+- **[🌐 Create A Basic Lan Lab](https://github.com/SunGodRah/CreateABasicLanLab)**  
    *Creating a LAN from scratch using networking and end user devices.*
+
+- **[📡 Investigate Unicast, Broadcast, and Multicast Traffic](https://github.com/SunGodRah/InvestigateUnicastBroadcastAndMulticastTraffic)**  
+   *Creating a LAN from scratch using networking and end user devices.*  
 ---
 
 ## 🎓 Certifications 🌐
