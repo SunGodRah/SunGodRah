@@ -32,7 +32,10 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
    *Creating a LAN from scratch using networking and end user devices.*
 
 - **[📡 Investigate Unicast, Broadcast, and Multicast Traffic](https://github.com/SunGodRah/InvestigateUnicastBroadcastAndMulticastTraffic)**  
-   *Analyze different types of network traffic to understand how data is transmitted across a network.*  
+   *Analyze different types of network traffic to understand how data is transmitted across a network.*
+
+- **[🔧 VLAN Configuration](https://github.com/SunGodRah/VLANConfigurationLab)**  
+   *Configure and manage VLANs in a network environment to optimize traffic segmentation and improve network security.*  
 ---
 
 ## 🎓 Certifications 🌐
