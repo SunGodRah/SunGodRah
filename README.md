@@ -35,7 +35,12 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
    *Analyze different types of network traffic to understand how data is transmitted across a network.*
 
 - **[🔧 VLAN Configuration](https://github.com/SunGodRah/VLANConfigurationLab)**  
-   *Configure and manage VLANs in a network environment to optimize traffic segmentation and improve network security.*  
+   *Configure and manage VLANs in a network environment to optimize traffic segmentation and improve network security.*
+
+- **[🔗 Configuring DTP](https://github.com/SunGodRah/ConfigureDTP)**  
+   *Set up DTP to manage trunk links between switches and streamline VLAN traffic.*
+
+  
 ---
 
 ## 🎓 Certifications 🌐
