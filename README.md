@@ -18,6 +18,9 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
 - **[🔐 Use the NIST Cybersecurity Framework to Respond to a Security Incident](https://github.com/SunGodRah/UseTheNISTCybersecurityFrameworkToRespondToASecurityIncident)**  
   *Leverage NIST guidelines to navigate and resolve a security breach.*
 
+- **[💻 Installing, Uninstalling, and Reinstalling Network Security Tools on Linux](https://github.com/SunGodRah/InstallingUninstallingAndReinstallingNetworkSecurityToolsOnLinux)**  
+  *Efficiently manage essential network security tools like Suricata and tcpdump using the Linux APT package manager.*
+
 ---
 ## 🖥️ Networking Projects 🌐
 
