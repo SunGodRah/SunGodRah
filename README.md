@@ -1,6 +1,6 @@
 # Greetings, I am Kwe👑🌙🔮
 
-Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and networking intertwine. Here, within these repositories, lies some examples my craft. Delve deep, explore, and may the wisdom you seek be revealed.
+Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and networking intertwine. Here, within these repositories, lies some examples of my craft. Delve deep, explore, and may the wisdom you seek be revealed.
 
 ---
 
