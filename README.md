@@ -21,6 +21,10 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
 - **[💻 Installing, Uninstalling, and Reinstalling Network Security Tools on Linux](https://github.com/SunGodRah/InstallingUninstallingAndReinstallingNetworkSecurityToolsOnLinux)**  
   *Efficiently manage essential network security tools like Suricata and tcpdump using the Linux APT package manager.*
 
+- **[💻 Examine input/output in the Linux shell](https://github.com/SunGodRah/ExamineInputOutputLinuxShell)**  
+  *Harness the power of shell commands to manage input, output, and perform essential calculations in a Linux environment.*
+
+
 ---
 ## 🖥️ Networking Projects 🌐
 
