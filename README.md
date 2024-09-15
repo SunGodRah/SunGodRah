@@ -15,14 +15,14 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
 - **[📁 File Permissions In Linux Lab](https://github.com/SunGodRah/FilePermissionsInLinux/blob/main/README.md)**  
   *Master the fundamentals of file permissions in a Linux environment.*
 
+- **[💻 Examine input/output in the Linux shell](https://github.com/SunGodRah/ExamineInputOutputLinuxShell)**  
+  *Harness the power of shell commands to manage input, output, and perform essential calculations in a Linux environment.*
+
 - **[🔐 Use the NIST Cybersecurity Framework to Respond to a Security Incident](https://github.com/SunGodRah/UseTheNISTCybersecurityFrameworkToRespondToASecurityIncident)**  
   *Leverage NIST guidelines to navigate and resolve a security breach.*
 
 - **[💻 Installing, Uninstalling, and Reinstalling Network Security Tools on Linux](https://github.com/SunGodRah/InstallingUninstallingAndReinstallingNetworkSecurityToolsOnLinux)**  
   *Efficiently manage essential network security tools like Suricata and tcpdump using the Linux APT package manager.*
-
-- **[💻 Examine input/output in the Linux shell](https://github.com/SunGodRah/ExamineInputOutputLinuxShell)**  
-  *Harness the power of shell commands to manage input, output, and perform essential calculations in a Linux environment.*
 
 
 ---
@@ -47,6 +47,8 @@ Welcome to my GitHub sanctuary, where the arcane arts of cybersecurity and netwo
 - **[🔗 Configuring DTP](https://github.com/SunGodRah/ConfigureDTP)**  
    *Set up DTP to manage trunk links between switches and streamline VLAN traffic.*
 
+- **[🌐 Configure Layer 3 Switching and Inter-VLAN Routing](https://github.com/SunGodRah/ConfigureLayer3SwitchingAndInterVLANRouting)**  
+   *Configure IPv6 addressing and routing between VLANs to ensure seamless communication in modern dual-stack networks.*
   
 ---
 
